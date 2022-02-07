@@ -3,7 +3,6 @@ import telebot
 from telebot import types
 
 TOKEN = '5270877307:AAHht1HAlNpKWao_TF4lKy3ZNxKom53r3Ms'
-BOT_URL = 'git@github.com:timyrapple/tmpervsbot.git'
 
 bot = telebot.TeleBot(TOKEN)
 
